@@ -9,6 +9,6 @@
 - Gold prices  
 - Aggregate Bond Index prices  
 
-**Results**  
+**Results**  (Benchmark is Equal weighted Portfolio)
 - Return: 4.8% → 13.3% (+177%)  
 - Max drawdown: –16.1% → –10.1% (↓37% reduction)  
